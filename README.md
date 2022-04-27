@@ -41,7 +41,7 @@ I am from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fl
   <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>
 </div>
 
-## 🔥 My Stats :
+## 🔥 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArchontisKostis&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchontisKostis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
