@@ -43,7 +43,7 @@ I am from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fl
 
 <hr>
 <div align="center">
-  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="200" height="100"/>
 </div>
 <hr>
 
