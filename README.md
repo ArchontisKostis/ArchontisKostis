@@ -41,9 +41,11 @@ I am from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fl
   <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>
 </div>
 
+<hr>
 <div align="center">
   <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="400" height="200"/>
 </div>
+<hr>
 
 <!--
 **ArchontisKostis/ArchontisKostis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
