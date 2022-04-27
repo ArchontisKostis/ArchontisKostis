@@ -7,7 +7,7 @@
         <a href="mailto:arxontisk02@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
         </a>
-        <a href="m.me/arxontis.umbra">
+        <a href="https://m.me/arxontis.umbra">
             <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger Badge"/>
         </a>
     </div>
