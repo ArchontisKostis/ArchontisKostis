@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="100"></img>
+    <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"></img>
     <div id="badges"> 
         <a href="https://www.linkedin.com/in/archontis-emmanouil-kostis-202384223/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=ArchontisKostis&style=flat-square&color=blue" alt=""/>
     <h1>
         Hey there
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="auto"/>
     </h1>
 </div>
 
