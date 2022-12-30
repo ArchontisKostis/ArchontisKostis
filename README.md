@@ -23,10 +23,11 @@
 </div>
 
 ## 👨‍💻 About Me
+Hi there! My name is Archontis Kostis and I am a software engineering enthusiast hailing from Thessaloniki, Greece. I have always had a passion for computers and programming, and this passion has only grown stronger as I've progressed through my studies at the [University of Macedonia (Department of Applied Informatics)](https://www.uom.gr/dai).
 
-Greetings, my name is **Archontis-Emmanouil Kostis**, people call me **Archontis**. <br>
-I am a student at [University of Macedonia - Applied Informatics](https://www.uom.gr/dai). <br>
-I am from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/338px-Flag_of_Greece.svg.png" width="16px"> Greece, living in Thessaloniki.
+In my free time, I enjoy participating in open source projects and tinkering with new technologies. When I'm not coding, you can find me playing video games, watching movies, or exploring the latest gadgets. Technology has always been a major interest of mine, dating back to my early days as a computer enthusiast.
+
+I am dedicated to constantly learning and growing as a developer, and I hope you'll join me on this journey of learning and discovery by checking out my projects on GitHub. Thank you for visiting my profile!
 
 ## 🛠️ Languages and Tools
 <div>
