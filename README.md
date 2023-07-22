@@ -44,7 +44,7 @@ I am dedicated to constantly learning and growing as a developer, and I hope you
 ## 🔥 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArchontisKostis&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br><br>
  <br><br>
- [![ArchontisKostis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchontisKostis&show_icons=true&theme=dark)](https://github.com/ArchontisKostis/) <br><br>
+ ![Archontis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchontisKostis&show_icons=true&theme=radical)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchontisKostis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
