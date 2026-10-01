@@ -14,7 +14,7 @@ Hi there! My name is **Archontis Kostis** and I am a software engineer based in 
 
 I am currently pursuing my **Master’s degree in Software Engineering and Cloud Computing** at the **University of Macedonia**, where I also work as a **researcher at the university’s SDE Lab**, focusing on **software engineering and software quality research**.
 
-Alongside academia, I’m actively involved in the industry. I work as a **freelancer** and as a **Tech Lead at [Metatopia](https://metatopia.gr)**, where I design and build scalable, production-ready systems and help shape technical direction.
+Alongside academia, I’m actively involved in the industry. I work as a **freelancer**, where I design and build scalable, production-ready systems and help shape technical direction.
 
 I enjoy working across the full stack, experimenting with new technologies, and continuously improving code quality and system architecture. In my free time, I enjoy participating in open source projects and tinkering with new technologies. When I'm not coding, you can find me playing video games, watching movies, or exploring the latest gadgets. Technology has always been a major interest of mine, dating back to my early days as a computer enthusiast.
 
